@@ -15,6 +15,7 @@ love = {
 [571100204] = true,
 [4166436780] = true,
 [574833709] = true,
+[1526358039] = true,
 [1] = true
 }
 return love
